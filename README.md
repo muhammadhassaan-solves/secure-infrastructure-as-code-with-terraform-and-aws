@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project demonstrates the use of Infrastructure as Code (IaC) with Terraform and AWS to provision secure, scalable, and efficient cloud infrastructure. It covers the setup of EC2 instances, KMS, S3 buckets, and RDS databases while adhering to industry best practices for security and automation in a DevOps environment.
+This project demonstrates the use of Infrastructure as Code (IaC) with Terraform and AWS to provision secure, scalable, and efficient cloud infrastructure. It covers the setup of EC2 instances, S3 buckets, RDS databases, and KMS for encryption while adhering to industry best practices for security and automation in a DevOps environment.
 <br />
 
 
@@ -33,7 +33,6 @@ Provision S3 Bucket <br/>
 <br />
 Provision RDS Database <br/>
 <img src="https://i.imgur.com/3PKJ3FP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 <br />
 Provision KMS for encryption <br/>
