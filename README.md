@@ -20,33 +20,25 @@ This project demonstrates the use of Infrastructure as Code (IaC) with Terraform
 
 <p align="center">
 Setup Terraform and AWS CLI <br />
-<img src="https://i.imgur.com/xqjRtpw.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xqjRtpw.jpeg"/>
 <br />
 <br />
 Provision EC2 Instance <br/>
-<img src="https://i.imgur.com/Pu4lFne.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Pu4lFne.jpeg" />
 <br />
 <br />
 Provision S3 Bucket <br/>
-<img src="https://i.imgur.com/h8f8pPS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h8f8pPS.jpeg" />
 <br />
 <br />
 Provision RDS Database <br/>
-<img src="https://i.imgur.com/3PKJ3FP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3PKJ3FP.jpeg" />
 <br />
 <br />
 Provision KMS for encryption <br/>
-<img src="https://i.imgur.com/Ko7oRmJ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ko7oRmJ.jpeg"/>
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
